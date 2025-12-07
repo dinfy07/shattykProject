@@ -29,12 +29,10 @@
             </svg>
           </div>
           <div class="read">
+            <img src="../assets/img/sparkle.png" alt="" class="up-left">
             <h5>Read now</h5>
-            <h6>
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
-                <circle cx="7" cy="7" r="7" fill="#2CF74C"/>
-              </svg>
-              Have any Questions?</h6>
+            <h5 class="second">Share your story</h5>
+            <img src="../assets/img/sparkle.png" alt="" class="down-right">
           </div>
         </div>
         <div class="blocks">
@@ -46,9 +44,6 @@
           </div>
           <div class="third">
             <img src="../assets/img/up.png" alt="">
-          </div>
-          <div class="star">
-            <img src="../assets/img/200mag.png" alt="">
           </div>
         </div>
       </div>
@@ -103,44 +98,49 @@
             Our editorial team combines creativity, research, and passion to craft monthly issues that truly connect with young minds.Our vision is to empower students through stories that inspire, inform, and motivate.
             Our editorial team combines creativity, research, and passion to craft monthly issues that truly connect with young minds.</p>
           <img class="rectangle" src="../assets/img/twoRectangle.png" alt="">
-          <h4>Read Our Misson</h4>
+          <div class="btn">
+            <img src="../assets/img/sparkle.png" alt="" >
+            <h4>Read Our Misson</h4>
+          </div>
         </div>
         <div class="right">
           <img src="../assets/img/money.png">
         </div>
       </div>
     </div>
-    <div class="ads">
-      <h3>Inspiration</h3>
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
-        <path d="
+    <div class="cut">
+      <div class="ads">
+        <h3>Inspiration</h3>
+        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
+          <path d="
     M50 26.3102 L0 23.6898
     M26.3102 0 L23.6898 50
     M9.6525 38.8189 L40.3475 11.1808
     M38.8189 40.3475 L11.1808 9.6525
   "
-              stroke="black"
-              stroke-width="6"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-        />
-      </svg>
+                stroke="black"
+                stroke-width="6"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+          />
+        </svg>
 
-      <h3>Student Life</h3>
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
-        <path d="
+        <h3>Student Life</h3>
+        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
+          <path d="
     M50 26.3102 L0 23.6898
     M26.3102 0 L23.6898 50
     M9.6525 38.8189 L40.3475 11.1808
     M38.8189 40.3475 L11.1808 9.6525
   "
-              stroke="black"
-              stroke-width="6"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-        />
-      </svg>
-      <h3>Creativity</h3>
+                stroke="black"
+                stroke-width="6"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+          />
+        </svg>
+        <h3>Creativity</h3>
+      </div>
     </div>
     <div class="issue">
         <div class="header">
@@ -152,8 +152,92 @@
       <div class="main-issue">
         <h3>From campus insights to creative minds, we publish monthly editions that inspire students and celebrate university life.</h3>
         <ul class="issue-list">
-          <li>
+          <li class="yellow">
+            <img src="../assets/img/card1.png" alt="">
+            <h4>August Issue</h4>
+            <h5>Discover inspiring interviews, study hacks, and career tips in our August edition.</h5>
+          </li>
+          <li class="blue">
+            <img src="../assets/img/card2.png" alt="">
+            <h4>August Issue</h4>
+            <h5>Discover inspiring interviews, study hacks, and career tips in our August edition.</h5>
+          </li>
+          <li class="yellow">
+            <img src="../assets/img/card3.png" alt="">
+            <h4>August Issue</h4>
+            <h5>Discover inspiring interviews, study hacks, and career tips in our August edition.</h5>
+          </li>
+        </ul>
+      </div>
+      <div class="circles">
+        <svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41" fill="none">
+          <circle cx="20.5" cy="20.5" r="18.5" fill="#78CCFF" stroke="black" stroke-width="4"/>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41" fill="none">
+          <circle cx="20.5" cy="20.5" r="18.5" fill="#78CCFF" stroke="black" stroke-width="4"/>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41" fill="none">
+          <circle cx="20.5" cy="20.5" r="18.5" fill="#78CCFF" stroke="black" stroke-width="4"/>
+        </svg>
+      </div>
+    </div>
+    <div class="feedbacks">
+      <div class="header">
+        <h2>Hear What Our <br> <span>READERS</span> Have to say</h2>
+        <img class="person" src="../assets/img/person.png" alt="">
+        <img class="vector" src="../assets/img/Vector.png" alt="">
+        <img class="vector1" src="../assets/img/vectorBlue.png" alt="">
+        <p>At Winfluence our clients' success stories speak volumes. Don't just take our word for it – read what our clients have to say about their experience partnering with us."</p>
+      </div>
+      <div class="feedback">
+        <div class="person">
+          <img src="../assets/img/ava.png" alt=""></img>
+          <div class="info">
+            <div class="name">
+              <h3>Aigerim</h3>
+              <img src="../assets/img/yellowStar.png" alt=""></img>
+              <img src="../assets/img/yellowStar.png" alt=""></img>
+              <img src="../assets/img/yellowStar.png" alt=""></img>
+              <img src="../assets/img/yellowStar.png" alt=""></img>
+              <img src="../assets/img/yellowStar.png" alt=""></img>
+            </div>
+            <h4>3 YEAR Student, KazNU</h4>
+          </div>
+        </div>
+        <div class="text">
+          <p>UNILIFE keeps me motivated every month. There’s always something new to learn!”</p>
+        </div>
 
+      </div>
+
+    </div>
+    <div id="faq" class="faq">
+      <div class="questions">
+        <img class="main" src="../assets/img/oneCircle.png" alt="">
+        <img class="circles" src="../assets/img/threeYellowCircles.png" alt="">
+        <img class="znak" src="../assets/img/question.png" alt="">
+        <h3>FAQs</h3>
+        <svg xmlns="http://www.w3.org/2000/svg" width="482" height="20" viewBox="0 0 482 20" fill="none">
+          <path d="M10 10L471.486 10" stroke="#78CCFF" stroke-width="20" stroke-linecap="round"/>
+        </svg>
+        <ul>
+          <li>
+            <div class="question">
+              <h6>01</h6>
+              <h5>How does UNILIFE work?</h5>
+            </div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="49" height="30" viewBox="0 0 49 30" fill="none">
+              <path d="M24.4855 29.3521C25.7022 29.3521 26.9189 28.7437 27.5272 28.1354L47.6022 8.06039C49.4272 6.23539 49.4272 3.19372 47.6022 1.36872C45.7772 -0.456283 42.7355 -0.456283 40.9105 1.36872L24.4855 17.7937L8.06053 1.36872C6.23553 -0.456283 3.19386 -0.456283 1.36886 1.36872C-0.456139 3.19372 -0.456139 6.23539 1.36886 8.06039L20.8355 27.527C22.0522 28.7437 23.2689 29.3521 24.4855 29.3521Z" fill="black"/>
+            </svg>
+          </li>
+          <li>
+            <div class="question">
+              <h6>02</h6>
+              <h5>How much is the subscription?</h5>
+            </div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="49" height="30" viewBox="0 0 49 30" fill="none">
+              <path d="M24.4855 29.3521C25.7022 29.3521 26.9189 28.7437 27.5272 28.1354L47.6022 8.06039C49.4272 6.23539 49.4272 3.19372 47.6022 1.36872C45.7772 -0.456283 42.7355 -0.456283 40.9105 1.36872L24.4855 17.7937L8.06053 1.36872C6.23553 -0.456283 3.19386 -0.456283 1.36886 1.36872C-0.456139 3.19372 -0.456139 6.23539 1.36886 8.06039L20.8355 27.527C22.0522 28.7437 23.2689 29.3521 24.4855 29.3521Z" fill="black"/>
+            </svg>
           </li>
         </ul>
       </div>
@@ -184,9 +268,24 @@
   font-style: normal;
   font-weight: 400;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, p,ul, li {
   margin: 0;
   padding: 0;
+}
+.up-left{
+  width: 70px;
+  height:  auto;
+  position: absolute;
+  top: -40px;
+  left: -40px;
+}
+.down-right{
+  width: 70px;
+  height:  auto;
+  position: absolute;
+  bottom: -37px;
+  left: 250px;
+  transform: rotate(180deg);
 }
 .description{
   margin-top: 50px;
@@ -263,11 +362,13 @@ h1, h2, h3, h4, h5, h6 {
       flex-direction: column;
       gap: 16px;
       margin: 80px 0 0 70px;
+      position: relative;
       h5{
         border-radius: 100px;
         background: #78CCFF;
         filter: drop-shadow(5px 5px black);
-        width: fit-content;
+        width: 20%;
+        text-align: center;
         font-family: Montserrat;
         font-size: 20px;
         font-style: normal;
@@ -275,21 +376,9 @@ h1, h2, h3, h4, h5, h6 {
         line-height: normal;
         padding: 12px 18px;
       }
-      h6{
-        display: flex;
-        align-items: center;
-        gap: 6px;
-        font-family: Syne;
-        font-size: 14px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 131%; /* 26.2px */
-        text-decoration-line: underline;
-        text-decoration-style: solid;
-        text-decoration-skip-ink: none;
-        text-decoration-thickness: auto;
-        text-underline-offset: auto;
-        text-underline-position: from-font;
+      .second{
+        background: #FFD255;
+        color: white;
       }
     }
     .blocks{
@@ -419,7 +508,7 @@ h1, h2, h3, h4, h5, h6 {
   .main-content{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 50px;
+    gap: 160px;
     .left{
       margin-top: 24px;
       padding: 30px 50px;
@@ -471,10 +560,20 @@ h1, h2, h3, h4, h5, h6 {
         bottom: 30px;
         left: 50px;
       }
+      .btn{
+        position: relative;
+        img{
+          width: 70px;
+          height: auto;
+          position: absolute;
+          top: -36px;
+          right: 146px;
+        }
+      }
     }
     .right{
       img{
-        width: 570px;
+        width: 550px;
       }
     }
   }
@@ -502,6 +601,9 @@ h1, h2, h3, h4, h5, h6 {
     width: 30px;
     height: 30px;
   }
+}
+.cut{
+  background: linear-gradient(135deg, #78CCFF 50%, white 50%);
 }
 .issue{
   margin-top: 70px;
@@ -552,13 +654,16 @@ h1, h2, h3, h4, h5, h6 {
       position: absolute;
       top: 0;
       right: 25px;
-      width: 180px;
+      width: 150px;
     }
     .circle{
       position: absolute;
       top: 0;
-      left: 25px;
+      left: 10px;
       width: 190px;
+    }
+    .badge{
+      color: white;
     }
   }
   .main-issue{
@@ -566,10 +671,276 @@ h1, h2, h3, h4, h5, h6 {
       color: #000;
       text-align: center;
       font-family: Syne;
-      font-size: 28px;
+      font-size: 24px;
       font-style: normal;
       font-weight: 600;
       line-height: 131%; /* 52.4px */
+    }
+    .issue-list{
+      list-style: none;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      padding: 0;
+      gap: 70px;
+      margin: 16px 70px;
+      li{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        background: #646cff;
+        padding: 20px 40px 70px 40px;
+        border-radius: 28px;
+        filter: drop-shadow(15px 15px black);
+        h4{
+          color: #000;
+          text-align: center;
+          font-family: Syne;
+          font-size: 30px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: 131%; /* 52.4px */
+          margin-bottom: 20px;
+        }
+        h5{
+          color: #000;
+          text-align: center;
+          font-family: Syne;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 500;
+          line-height: 131%; /* 36.68px */
+        }
+        img{
+          width: 250px;
+        }
+      }
+      .yellow{
+        background: url("../assets/img/yellowBackground.png");
+      }
+      .blue{
+        background: url("../assets/img/blueBackground.png");
+      }
+    }
+  }
+}
+.circles{
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.feedbacks {
+   margin: 0 40px;
+   .header{
+     position: relative;
+     display: flex;
+     flex-direction: column;
+     gap: 50px;
+     h2 {
+       color: #000;
+       font-family: Phonk;
+       font-size: 60px;
+       font-style: normal;
+       font-weight: 600;
+       line-height: 131%; /* 104.8px */
+       span{
+         border-radius: 100px;
+         background: #000;
+         padding: 0 30px;
+         color: #FFD255;
+         font-family: "Bowlby One SC";
+         font-size: 70px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: 131%; /* 131px */
+       }
+     }
+     .person{
+       position: absolute;
+       width: 350px;
+       right: 0;
+       top: -120px;
+     }
+     .vector{
+       position: absolute;
+       width: 150px;
+       right: 360px;
+       top: 160px;
+     }
+     .vector1 {
+       position: absolute;
+       width: 120px;
+       bottom: 10px;
+       left: 10px;
+       z-index: 5;
+     }
+     p{
+       position: relative;
+       color: #000;
+       font-family: Syne;
+       font-size: 40px;
+       font-style: normal;
+       font-weight: 400;
+       line-height: 131%; /* 65.5px */
+       left: 120px;
+       width: calc(100% - 120px);
+       margin-bottom: 50px;
+     }
+   }
+   .feedback{
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     padding: 20px 50px;
+     border-radius: 50px;
+     border: 4px solid #000;
+     background: #78CCFF;
+     filter: drop-shadow(15px 15px #000000);
+     .person{
+       display: flex;
+       align-items: center;
+       gap: 20px;
+       img{
+         width: 120px;
+         height: 120px;
+       }
+       .info{
+         display: flex;
+         flex-direction: column;
+         .name{
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           gap: 10px;
+           color: #FFF;
+           font-family: Phonk;
+           font-size: 30px;
+           font-style: normal;
+           font-weight: 600;
+           line-height: 166.5%; /* 83.25px */
+           img{
+             width: auto;
+             height: 25px;
+           }
+         }
+         h4{
+           color: #FFF;
+           font-family: Syne;
+           font-size: 25px;
+           font-style: normal;
+           font-weight: 700;
+           line-height: 166.5%; /* 58.275px */
+         }
+       }
+     }
+     .text{
+       padding: 15px 40px 25px 40px;
+       border-radius: 50px;
+       border: 4px solid #000;
+       background: #FFD255;
+       p{
+         color: #000;
+         text-align: center;
+         font-family: Syne;
+         font-size: 30px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: 131%; /* 52.4px */
+       }
+     }
+   }
+ }
+.faq{
+  margin-top: 75px;
+  background: #78CCFF;
+  padding: 150px 75px;
+  position: relative;
+  .questions{
+    border-radius: 40px;
+    border: 2px solid #000;
+    background: #FFF;
+    padding: 50px 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    ul{
+      list-style: none;
+      width: 100%;
+      margin-top: 50px;
+      li{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        margin-bottom: 70px;
+        .question{
+          display: flex;
+          align-items: center;
+          gap: 16px;
+          h6{
+            color: #000;
+            font-family: Phonk;
+            font-size: 50px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 131%; /* 65.5px */
+          }
+          h5{
+            color: #000;
+            font-family: Syne;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 131%; /* 52.4px */
+          }
+        }
+        svg {
+          width: 40px;
+          height: auto;
+        }
+        &:before{
+          content: '';
+          position: absolute;
+          width: 100%;
+          height: 2px;
+          background: #000;
+          bottom: -20px;
+        }
+      }
+    }
+    h3{
+      color: #000;
+      text-align: center;
+      font-family: Phonk;
+      font-size: 60px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 131%; /* 104.8px */
+    }
+    .main{
+      position: absolute;
+      top:-55px;
+      left: -3px;
+      width: 100px;
+    }
+    .circles{
+      position: absolute;
+      bottom: -150px;
+      right: -40px;
+      width: 150px;
+      height: auto;
+    }
+    .znak{
+      position: absolute;
+      right: 50px;
+      top: 30px;
+      height: 150px;
+      width: auto;
     }
   }
 }
