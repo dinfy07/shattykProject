@@ -18,7 +18,7 @@ function changeAnswer2 () {
       <div class="up">
         <div class="head">Where Students Speak Out</div>
         <div class="main-text">
-          <h3>Made by Students</h3>
+          <h3>Your Student Life</h3>
           <h4>Brighter</h4>
           <div class="text">
             <svg class="star" xmlns="http://www.w3.org/2000/svg" width="120"
@@ -33,16 +33,14 @@ function changeAnswer2 () {
               </defs>
             </svg>
             <h5><span>With </span>UniLife</h5>
-            <svg class="lines" xmlns="http://www.w3.org/2000/svg" width="244"
-                 height="41" viewBox="0 0 244 41" fill="none">
-              <path d="M191.755 11.31C190.979 11.4253 190.203 11.5405 189.514 11.6558C179.258 13.5004 169.003 15.3066 158.747 17.1512C134.012 21.5705 109.278 26.0282 84.5435 30.4091C75.3219 32.0615 66.0142 33.5987 56.4479 34.8284C52.3112 35.3664 48.0882 35.8276 43.8653 36.0966C39.039 36.404 34.299 35.9044 29.9898 34.8668C26.5425 34.0214 25.2498 32.5995 26.4564 30.9087C27.4044 29.5252 29.128 28.3724 31.8859 27.6038C34.6437 26.8736 37.4016 26.1435 40.2456 25.5671C47.5711 24.1068 54.9828 22.7233 62.3945 21.3399C73.943 19.2263 85.5777 17.1512 97.2123 15.0376C105.4 13.5388 113.501 11.8864 121.171 9.92653C124.446 9.0811 127.549 8.12038 130.651 7.19809C131.858 6.8138 132.978 6.31422 134.185 5.81465C133.409 5.58408 132.72 5.69936 132.203 5.77622C129.1 6.16051 125.911 6.50637 122.809 6.92909C113.07 8.35095 103.676 10.0802 94.3683 11.9633C68.9444 17.0743 43.6067 22.2622 18.269 27.4116C15.9421 27.8728 13.7013 28.3724 11.2882 28.7951C9.73689 29.0641 8.09942 29.2562 6.54813 29.3331C3.79029 29.4484 1.29098 28.8719 0.429155 27.9881C-0.605038 26.8736 0.342967 25.9129 2.06662 25.1059C3.44554 24.4526 5.1692 24.0299 6.89286 23.684C20.8545 20.8019 34.7299 17.9197 48.7777 15.076C66.7898 11.4253 84.7159 7.65923 103.073 4.35435C111.088 2.89406 119.103 1.51062 127.462 0.588332C130.479 0.242472 133.581 -0.0649582 136.77 0.0118995C138.321 0.0503283 139.873 0.127184 141.252 0.357756C145.819 1.04948 148.491 2.93249 148.06 5.0845C147.888 6.16051 147.026 7.12123 145.733 8.04352C144.354 9.04267 142.631 9.8881 140.648 10.6567C137.373 12.0017 133.668 13.0777 129.789 14.0768C119.878 16.6516 109.45 18.7652 98.8498 20.6866C84.0264 23.3766 69.203 26.0666 54.3795 28.7567C52.8283 29.0257 51.1908 29.3715 49.6395 29.6789C49.2948 29.7558 48.95 29.8327 48.6915 30.0632C49.4671 29.9864 50.2428 29.9095 51.0184 29.7942C60.5847 28.5645 69.9786 27.0274 79.2863 25.3749C102.9 21.1862 126.428 16.959 150.042 12.7318C161.849 10.6183 173.57 8.46624 185.377 6.42951C190.031 5.62251 194.857 5.00764 199.684 4.35435C201.924 4.04692 204.165 3.93164 206.492 4.04693C213.387 4.39278 216.575 7.50552 212.525 10.0418C211.749 10.503 210.801 10.9257 209.853 11.31C205.803 13.0008 201.407 14.4996 196.753 15.883C188.997 18.1887 180.896 20.2639 172.536 22.1085C157.885 25.3365 143.148 28.5261 128.41 31.7157C125.653 32.3305 122.981 32.9454 120.223 33.5987C119.706 33.714 119.275 33.8677 118.758 33.983C118.844 34.0214 118.844 34.0983 118.93 34.1367C119.706 34.0598 120.482 33.9445 121.257 33.8677C132.892 32.3305 144.096 30.2938 155.299 28.2186C177.448 24.1068 198.822 19.4569 220.023 14.6148C223.815 13.731 227.779 12.924 231.657 12.117C232.864 11.848 234.157 11.6558 235.449 11.5021C236.914 11.31 238.466 11.31 240.017 11.579C242.258 11.9633 243.723 12.7318 243.981 13.8078C244.154 14.8838 243.12 15.7293 241.051 16.3057C240.707 16.421 240.362 16.4979 239.931 16.5747C233.726 17.5739 227.951 18.9957 222.177 20.3023C199.511 25.4902 176.5 30.3707 152.973 34.6747C141.941 36.7114 130.737 38.556 119.189 39.901C114.707 40.439 110.226 40.8617 105.572 40.977C103.59 41.0154 101.521 41.0154 99.5393 40.9002C98.2465 40.8233 96.8676 40.6312 95.661 40.3622C91.6966 39.4014 90.4039 37.3263 92.9032 35.6354C93.765 35.0206 94.9716 34.4441 96.2643 34.0214C99.2807 33.0223 102.297 31.9847 105.572 31.1392C113.415 29.1794 121.257 27.2195 129.272 25.4518C143.492 22.2622 157.799 19.2647 172.105 16.1136C178.138 14.7686 183.998 13.3083 189.945 11.9248C190.548 11.7711 191.151 11.6174 191.755 11.4253C191.755 11.3868 191.755 11.3484 191.755 11.31Z" fill="#FFD255"/>
-            </svg>
           </div>
           <div class="read">
             <img src="../assets/img/sparkle.png" alt="" class="up-left">
             <router-link :to="{name:'Read'}"><h5>Read now</h5></router-link>
             <router-link :to="{name:'Write'}"><h5 class="second">Share your story</h5></router-link>
             <img src="../assets/img/sparkle.png" alt="" class="down-right">
+            <img src="../assets/img/secondphoto.png" alt="" class="secondphoto">
+
           </div>
         </div>
         <div class="blocks">
@@ -64,8 +62,7 @@ function changeAnswer2 () {
           <h4>Writers & <br> Storytellers</h4>
         </div>
         <div class="right">
-          <h6>Experience inspiring student stories and get notified about
-            <br> every new issue</h6>
+          <h6>the creators of this magazine</h6>
         </div>
       </div>
     </div>
@@ -103,10 +100,10 @@ function changeAnswer2 () {
             <path d="M4 4H408" stroke="#FFD255" stroke-width="6"
                   stroke-linecap="round"/>
           </svg>
-          <p>Our vision is to empower students through stories that inspire, inform, and motivate.
-            Our editorial team combines creativity, research, and passion to craft monthly issues that truly connect with young minds.Our vision is to empower students through stories that inspire, inform, and motivate.
-            Our editorial team combines creativity, research, and passion to craft monthly issues that truly connect with young minds.Our vision is to empower students through stories that inspire, inform, and motivate.
-            Our editorial team combines creativity, research, and passion to craft monthly issues that truly connect with young minds.</p>
+          <p>Our vision is to create a warm and supportive student community where everyone can share their achievements, express their stories, and find motivation together.
+            <br>
+            <br>
+            UniLife exists to inspire students and help them grow with confidence.</p>
           <img class="rectangle" src="../assets/img/twoRectangle.png" alt="">
           <div class="btn">
             <img src="../assets/img/sparkle.png" alt="" >
@@ -115,6 +112,7 @@ function changeAnswer2 () {
         </div>
         <div class="right">
           <img src="../assets/img/money.png">
+          <img src="../assets/img/first.png" alt="" class="firstphoto">
         </div>
       </div>
     </div>
@@ -169,13 +167,13 @@ function changeAnswer2 () {
           </li>
           <li class="blue">
             <img src="../assets/img/card2.png" alt="">
-            <h4>August Issue</h4>
-            <h5>Discover inspiring interviews, study hacks, and career tips in our August edition.</h5>
+            <h4>September Issue</h4>
+            <h5>Explore new tech trends, student stories, and creative lifestyle ideas this month.</h5>
           </li>
           <li class="yellow">
             <img src="../assets/img/card3.png" alt="">
-            <h4>August Issue</h4>
-            <h5>Discover inspiring interviews, study hacks, and career tips in our August edition.</h5>
+            <h4>October Issue</h4>
+            <h5>From art and culture to productivity — the October issue brings a fresh perspective for students.</h5>
           </li>
         </ul>
       </div>
@@ -197,7 +195,7 @@ function changeAnswer2 () {
         <img class="person" src="../assets/img/person.png" alt="">
         <img class="vector" src="../assets/img/Vector.png" alt="">
         <img class="vector1" src="../assets/img/vectorBlue.png" alt="">
-        <p>At Winfluence our clients' success stories speak volumes. Don't just take our word for it – read what our clients have to say about their experience partnering with us."</p>
+        <p>At UniLife, our readers’ stories speak louder than anything we could say ourselves. Don’t just take our word for it — hear what students think and feel about their experience with our magazine.</p>
       </div>
       <div class="feedback">
         <div class="person">
@@ -235,29 +233,28 @@ function changeAnswer2 () {
             <div @click="changeAnswer1" class="questio">
               <div class="question">
                 <h6>01</h6>
-                <h5>How does UNILIFE work?</h5>
+                <h5>How can I subscribe to the UniLife magazine?
+                </h5>
               </div>
               <svg xmlns="http://www.w3.org/2000/svg" width="49" height="30" viewBox="0 0 49 30" fill="none">
                 <path d="M24.4855 29.3521C25.7022 29.3521 26.9189 28.7437 27.5272 28.1354L47.6022 8.06039C49.4272 6.23539 49.4272 3.19372 47.6022 1.36872C45.7772 -0.456283 42.7355 -0.456283 40.9105 1.36872L24.4855 17.7937L8.06053 1.36872C6.23553 -0.456283 3.19386 -0.456283 1.36886 1.36872C-0.456139 3.19372 -0.456139 6.23539 1.36886 8.06039L20.8355 27.527C22.0522 28.7437 23.2689 29.3521 24.4855 29.3521Z" fill="black"/>
               </svg>
             </div>
-            <p v-if="answer1">Lorem ipsum dolor sit amet, consectetur
-              adipisicing elit. At
-              blanditiis consequuntur, cum delectus deserunt dolore exercitationem laborum minus molestiae officiis pariatur possimus quo repellat reprehenderit repudiandae similique, ut veritatis voluptas!</p>
+            <p v-if="answer1">Subscribing to the UniLife magazine is simple. On our website, go to the “Subscribe” section and fill in your name and contact details. Once your request is submitted, our team will contact you to confirm your subscription. After confirmation, you can pick up the printed (offline) edition at the designated collection point.
+            </p>
           </li>
           <li>
             <div @click="changeAnswer2" class="questio">
               <div class="question">
                 <h6>02</h6>
-                <h5>How does UNILIFE work?</h5>
+                <h5>Where can I pick up the offline  version after subscribing?
+                </h5>
               </div>
               <svg xmlns="http://www.w3.org/2000/svg" width="49" height="30" viewBox="0 0 49 30" fill="none">
                 <path d="M24.4855 29.3521C25.7022 29.3521 26.9189 28.7437 27.5272 28.1354L47.6022 8.06039C49.4272 6.23539 49.4272 3.19372 47.6022 1.36872C45.7772 -0.456283 42.7355 -0.456283 40.9105 1.36872L24.4855 17.7937L8.06053 1.36872C6.23553 -0.456283 3.19386 -0.456283 1.36886 1.36872C-0.456139 3.19372 -0.456139 6.23539 1.36886 8.06039L20.8355 27.527C22.0522 28.7437 23.2689 29.3521 24.4855 29.3521Z" fill="black"/>
               </svg>
             </div>
-            <p v-if="answer2">Lorem ipsum dolor sit amet, consectetur
-              adipisicing elit. At
-              blanditiis consequuntur, cum delectus deserunt dolore exercitationem laborum minus molestiae officiis pariatur possimus quo repellat reprehenderit repudiandae similique, ut veritatis voluptas!</p>
+            <p v-if="answer2">After your subscription is confirmed, you can collect the printed version of the UniLife magazine from the official distribution point located on your university campus or the designated pick-up location. All collection addresses and operating hours are provided on our website, allowing you to choose the most convenient place to pick up your copy.</p>
           </li>
         </ul>
       </div>
@@ -281,6 +278,18 @@ function changeAnswer2 () {
 </template>
 
 <style scoped type="scss">
+.secondphoto{
+  position: absolute;
+  width: 100px;
+  left: 350px;
+  top: -50px;
+}
+.firstphoto{
+  position: absolute;
+  top: -33px;
+  left: -122px;
+  width: 100px !important;
+}
 .footer {
   display: flex;
   justify-content: space-around;
@@ -381,7 +390,7 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
         position: relative;
         color: #000;
         font-family: "Bowlby One SC";
-        font-size: 65px;
+        font-size: 59px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -391,6 +400,7 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
         z-index: -1;
         border-radius: 30px;
         background: #FFD255;
+        padding: 0 10px;
       }
       .text{
         position: relative;
@@ -634,6 +644,7 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
       }
     }
     .right{
+      position: relative;
       img{
         width: 550px;
       }

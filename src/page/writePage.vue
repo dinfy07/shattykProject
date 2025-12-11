@@ -128,7 +128,7 @@ const onDragLeave = (e) => {
     <div class="buttons">
       <router-link
           :to="{name: 'Submit'}"><h4 class="submit">Submit now</h4></router-link>
-      <h4>Cancel</h4>
+     <router-link :to="{name: 'Home'}"><h4>Cancel</h4></router-link>
     </div>
   </div>
 </main>

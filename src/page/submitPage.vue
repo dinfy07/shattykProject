@@ -4,21 +4,26 @@
 
 <template>
   <main>
+    <img class="succes" src="../assets/img/succes.png" alt="">
     <h2>STORY SUBMITTED</h2>
     <svg  xmlns="http://www.w3.org/2000/svg" width="862" height="8" viewBox="0 0 862 8" fill="none">
       <path d="M4 4H858" stroke="#FFD255" stroke-width="8" stroke-linecap="round"/>
     </svg>
-    <h3>Subscribe to Student Stories Magazine to read our full digital issues and access our entire archive.</h3>
+    <h3>Subscribe to UNILIFE Magazine to read our full digital issues and
+      access
+      our entire archive.</h3>
     <img class="threeCircles" src="../assets/img/threecircles.png" alt="">
     <img class="threeAnyCircles" src="../assets/img/threeaanycolors.png" alt="">
     <div class="read">
       <img src="../assets/img/sparkle.png" alt="" class="up-left">
-      <h5><router-link :to="{name:'Subscribe'}">Submit another story </router-link></h5>
+      <h5><router-link :to="{name:'Write'}">Submit another story
+      </router-link></h5>
       <h5 class="second"><router-link :to="{name:'Home'}">Back to Home</router-link></h5>
       <img src="../assets/img/sparkle.png" alt="" class="down-right">
     </div>
     <div class="preview">
-      <p><span>Free Preview:</span> Read sample stories in our Archive section, or submit your own story for free!</p>
+      <p><span>⚠ Notice:
+</span> Online access is currently unavailable. After subscribing, you can pick up your copy offline</p>
     </div>
   </main>
 </template>
@@ -36,7 +41,7 @@ main{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-top: 120px;
+  padding-top: 10px;
   position: relative;
   width: 100%;
   .read{
@@ -47,7 +52,7 @@ main{
     width: 100%;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 50px;
     h5{
       border-radius: 100px;
       background: #78CCFF;
@@ -119,7 +124,7 @@ main{
     width: 150px;
   }
   .preview{
-    margin-top: 100px;
+    margin-top: 50px;
     padding: 25px 30px;
     border: 2px solid #000;
     background: #FFD255;
@@ -143,5 +148,9 @@ main{
       }
     }
   }
+}
+.succes{
+  width: 170px;
+  margin-bottom: 0;
 }
 </style>
