@@ -579,6 +579,10 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
       width: 150px;
       margin: 0 50px;
     }
+    svg{
+
+      width: 68px;
+    }
   }
   .main-content{
     display: grid;
