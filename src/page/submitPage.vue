@@ -78,14 +78,14 @@ main{
       height:  auto;
       position: absolute;
       top: -36px;
-      left: 427px;
+      left: 435px;
     }
     .down-right{
       width: 70px;
       height:  auto;
       position: absolute;
       bottom: -37px;
-      right: 420px;
+      right: 435px;
       transform: rotate(180deg);
     }
   }

@@ -19,7 +19,7 @@
       <img src="../assets/img/sparkle.png" alt="" class="down-right">
     </div>
     <div class="preview">
-      <p><span>Free Preview:</span> Online access is currently unavailable. After subscribing, you can pick up your copy offline. </p>
+      <p><span>⚠ Notice:</span> Online access is currently unavailable. After subscribing, you can pick up your copy offline. </p>
     </div>
   </main>
 </template>
@@ -37,7 +37,7 @@ main{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-top: 120px;
+  padding-top: 70px;
   position: relative;
   width: 100%;
   .read{
@@ -48,7 +48,7 @@ main{
     width: 100%;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 50px;
     h5{
       border-radius: 100px;
       background: #78CCFF;
@@ -74,14 +74,14 @@ main{
       height:  auto;
       position: absolute;
       top: -36px;
-      left: 427px;
+      left: 435px;
     }
     .down-right{
       width: 70px;
       height:  auto;
       position: absolute;
-      bottom: -37px;
-      right: 420px;
+      bottom: -36px;
+      right: 435px;
       transform: rotate(180deg);
     }
   }

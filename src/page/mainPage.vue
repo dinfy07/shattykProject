@@ -16,7 +16,7 @@ function changeAnswer2 () {
   <main>
     <div class="description">
       <div class="up">
-        <div class="head">Where Students Speak Out</div>
+        <div class="head">Create a student community together</div>
         <div class="main-text">
           <h3>Your Student Life</h3>
           <h4>Brighter</h4>
@@ -57,9 +57,7 @@ function changeAnswer2 () {
       </div>
       <div class="down">
         <div class="left">
-          <img src="../assets/img/circles.png" alt="">
-          <h2>150+</h2>
-          <h4>Writers & <br> Storytellers</h4>
+          <img class="persons" src="../assets/img/persons.png" alt="">
         </div>
         <div class="right">
           <h6>the creators of this magazine</h6>
@@ -167,8 +165,10 @@ function changeAnswer2 () {
           </li>
           <li class="blue">
             <img src="../assets/img/card2.png" alt="">
-            <h4>September Issue</h4>
-            <h5>Explore new tech trends, student stories, and creative lifestyle ideas this month.</h5>
+            <h4 class="white">September Issue</h4>
+            <h5 class="white">Explore new tech trends, student stories, and
+              creative
+              lifestyle ideas this month.</h5>
           </li>
           <li class="yellow">
             <img src="../assets/img/card3.png" alt="">
@@ -278,6 +278,9 @@ function changeAnswer2 () {
 </template>
 
 <style scoped type="scss">
+.persons{
+  width: 400px !important;
+}
 .secondphoto{
   position: absolute;
   width: 100px;
@@ -497,7 +500,7 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
     }
   }
   .down{
-    margin-top: 150px;
+    margin-top: 80px;
     display:  flex;
     justify-content: space-between;
     .left{
@@ -579,7 +582,7 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
   }
   .main-content{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 5fr 3fr;
     gap: 160px;
     .left{
       margin-top: 24px;
@@ -588,7 +591,7 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
       border: 4px solid #000;
       background: #FFF;
       position: relative;
-      filter: drop-shadow(25px 25px #FFD255);
+      filter: drop-shadow(25px 15px #FFD255);
       h3{
         color: #000;
         font-family: Phonk;
@@ -646,7 +649,7 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
     .right{
       position: relative;
       img{
-        width: 550px;
+        width: 400px;
       }
     }
   }
@@ -793,6 +796,9 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
       }
       .blue{
         background: url("../assets/img/blueBackground.png");
+      }
+      .white{
+        color: white;
       }
     }
   }
@@ -967,7 +973,7 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
           h6{
             color: #000;
             font-family: Phonk;
-            font-size: 50px;
+            font-size: 40px;
             font-style: normal;
             font-weight: 600;
             line-height: 131%; /* 65.5px */
@@ -975,7 +981,7 @@ h1, h2, h3, h4, h5, h6, p,ul, li {
           h5{
             color: #000;
             font-family: Syne;
-            font-size: 40px;
+            font-size: 35px;
             font-style: normal;
             font-weight: 600;
             line-height: 131%; /* 52.4px */
