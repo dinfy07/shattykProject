@@ -13,8 +13,9 @@
     <img class="threeAnyCircles" src="../assets/img/threeaanycolors.png" alt="">
     <div class="read">
       <img src="../assets/img/sparkle.png" alt="" class="up-left">
-      <h5>Subscribe Now</h5>
-      <h5 class="second">Back to Home</h5>
+      <h5><router-link :to="{name:'Subscribe'}">Subscribe Now</router-link></h5>
+      <h5
+          class="second"><router-link :to="{name:'Home'}">Back to Home</router-link></h5>
       <img src="../assets/img/sparkle.png" alt="" class="down-right">
     </div>
     <div class="preview">

@@ -4,6 +4,7 @@ import readPage from "../page/readPage.vue";
 import subscribePage from "../page/subscribePage.vue";
 import writePage from "../page/writePage.vue";
 import submitPage from "../page/submitPage.vue";
+import subscribedPage from "../page/subscribedPage.vue";
 
 
 const routes = [
@@ -12,6 +13,7 @@ const routes = [
     { path: '/subscribe', name: 'Subscribe', component: subscribePage },
     { path: '/writestory', name: 'Write', component: writePage},
     { path: '/submitted', name: 'Submit', component: submitPage},
+    { path: '/subscribed', name: 'Subscribed', component: subscribedPage },
 ]
 
 const router = createRouter({

@@ -4,7 +4,8 @@
 
 <template>
   <main>
-    <h2>STORY SUBMITTED</h2>
+    <img class="succes" src="../assets/img/succes.png" alt="">
+    <h2>You have <br> successfully subscribed </h2>
     <svg  xmlns="http://www.w3.org/2000/svg" width="862" height="8" viewBox="0 0 862 8" fill="none">
       <path d="M4 4H858" stroke="#FFD255" stroke-width="8" stroke-linecap="round"/>
     </svg>
@@ -13,7 +14,6 @@
     <img class="threeAnyCircles" src="../assets/img/threeaanycolors.png" alt="">
     <div class="read">
       <img src="../assets/img/sparkle.png" alt="" class="up-left">
-      <h5><router-link :to="{name:'Subscribe'}">Submit another story </router-link></h5>
       <h5 class="second"><router-link :to="{name:'Home'}">Back to Home</router-link></h5>
       <img src="../assets/img/sparkle.png" alt="" class="down-right">
     </div>
@@ -36,7 +36,7 @@ main{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-top: 120px;
+  padding-top: 50px;
   position: relative;
   width: 100%;
   .read{
@@ -92,6 +92,7 @@ main{
     font-weight: 700;
     line-height: 131%; /* 78.6px */
     margin-bottom: 16px;
+    text-align: center;
   }
   svg{
     width: 50%;
@@ -143,5 +144,9 @@ main{
       }
     }
   }
+}
+.succes{
+  width: 250px;
+  margin-bottom: 20px;
 }
 </style>

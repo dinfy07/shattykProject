@@ -89,10 +89,8 @@ const onDragLeave = (e) => {
     <div class="input">
       <h6>Category <span>*</span></h6>
       <select>
-        <option value="">Fantastic</option>
-        <option value="">Drama</option>
-        <option value="">Romantica</option>
-        <option value="">Literature</option>
+        <option value="">Your article</option>
+        <option value="">Student of the month</option>
       </select>
     </div>
     <div class="input">
@@ -100,7 +98,7 @@ const onDragLeave = (e) => {
       <textarea v-model="story" placeholder="Share your story, advice, or experiences here…"></textarea>
       <div class="counter">
         <h6>Words: {{ wordCount }}</h6>
-        <h6>Recommended: 500–3000 words</h6>
+        <h6>Recommended: 500–300 words</h6>
       </div>
     </div>
     <div class="input">
@@ -128,7 +126,8 @@ const onDragLeave = (e) => {
       </label>
     </div>
     <div class="buttons">
-      <router-link :to="{name: 'Submit'}"><h4 class="submit">Subscribe now</h4></router-link>
+      <router-link
+          :to="{name: 'Submit'}"><h4 class="submit">Submit now</h4></router-link>
       <h4>Cancel</h4>
     </div>
   </div>

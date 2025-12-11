@@ -15,7 +15,7 @@ console.log(route.path)
         <li :class="{ active: route.path === '/read' }"><router-link :to="{ name: 'Read' }">Read magazine</router-link></li>
         <li :class="{ active: route.name === '/' }"><router-link :to="{ name: 'Write' }">Write story</router-link></li>
         <li :class="{ active: route.path === '/subscribe' }"><router-link :to="{ name: 'Subscribe' }">Subscribe</router-link></li>
-        <li>Contact Us</li>
+        <li><a href="#contact">Contact Us</a></li>
         <li><a href="#faq">FAQ</a></li>
       </ul>
     </div>

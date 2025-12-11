@@ -166,7 +166,8 @@ function changeMethodToCard() {
           <h6>Total Today</h6>
           <h6>2 500 ₸</h6>
         </div>
-        <div class="btn">Subscribe Now</div>
+        <div class="btn"><router-link
+            :to="{name:'Subscribed'}">Subscribe Now</router-link></div>
         <p>By subscribing, you agree to our Terms of Service and Privacy Policy. Cancel anytime from your profile.</p>
       </div>
     </div>
